@@ -1,74 +1,30 @@
-# 路由器固件和插件
+# 路由器「固件」和「科学上网」插件下载
 
-### fancyss_hnd
+## 
 
-| 品牌 | 型号    |                          固件                           |                           科学上网                           |
-| :--: | :------ | :-----------------------------------------------------: | :----------------------------------------------------------: |
-| 华硕 | AC86U   | [官改固件](https://koolshare.cn/thread-139965-1-1.html) | [Shadowsocks](https://github.com/hq450/fancyss_history_package/tree/master/fancyss_hnd) |
-| 华硕 | AC86U   | [梅林固件](https://koolshare.cn/thread-127878-1-1.html) | [Shadowsocks](https://github.com/hq450/fancyss_history_package/tree/master/fancyss_hnd) |
-| 华硕 | AX88U   | [梅林固件](https://koolshare.cn/thread-158199-1-1.html) | [Shadowsocks](https://github.com/hq450/fancyss_history_package/tree/master/fancyss_hnd) |
-| 华硕 | AC5300  | [官改固件](https://koolshare.cn/thread-130902-1-1.html) | [Shadowsocks](https://github.com/hq450/fancyss_history_package/tree/master/fancyss_hnd) |
-| 华硕 | AX3000  | [官改固件](https://koolshare.cn/thread-179968-1-1.html) | [Shadowsocks](https://github.com/hq450/fancyss_history_package/tree/master/fancyss_hnd) |
-| 华硕 | AX11000 | [官改固件](https://koolshare.cn/thread-159465-1-1.html) | [Shadowsocks](https://github.com/hq450/fancyss_history_package/tree/master/fancyss_hnd) |
-| 网件 | RAX80   | [梅林固件](https://koolshare.cn/thread-177255-1-1.html) | [Shadowsocks](https://github.com/hq450/fancyss_history_package/tree/master/fancyss_hnd) |
-
----
-
-### fancyss_384 梅林固件
-
-* `AC68U`、`AC66U_B1` 使用同一个固件。
-
-| 品牌 | 型号             |                          固件                           |                           科学上网                           |
-| :--: | :--------------- | :-----------------------------------------------------: | :----------------------------------------------------------: |
-| 华硕 | AC68U / AC66U-B1 | [梅林固件](https://koolshare.cn/thread-139322-1-1.html) | [Shadowsocks](https://github.com/hq450/fancyss_history_package/tree/master/fancyss_arm384) |
-| 华硕 | AC87U            | [梅林固件](https://koolshare.cn/thread-139322-1-1.html) | [Shadowsocks](https://github.com/hq450/fancyss_history_package/tree/master/fancyss_arm384) |
-| 华硕 | AC88U            | [梅林固件](https://koolshare.cn/thread-139322-1-1.html) | [Shadowsocks](https://github.com/hq450/fancyss_history_package/tree/master/fancyss_arm384) |
-| 华硕 | AC3100           | [梅林固件](https://koolshare.cn/thread-139322-1-1.html) | [Shadowsocks](https://github.com/hq450/fancyss_history_package/tree/master/fancyss_arm384) |
-| 华硕 | AC3200           | [梅林固件](https://koolshare.cn/thread-139322-1-1.html) | [Shadowsocks](https://github.com/hq450/fancyss_history_package/tree/master/fancyss_arm384) |
-| 华硕 | AC5300           | [梅林固件](https://koolshare.cn/thread-139322-1-1.html) | [Shadowsocks](https://github.com/hq450/fancyss_history_package/tree/master/fancyss_arm384) |
-| 华为 | WS880            | [梅林固件](https://koolshare.cn/thread-139322-1-1.html) | [Shadowsocks](https://github.com/hq450/fancyss_history_package/tree/master/fancyss_arm) |
-
----
-
-### fancyss_arm 梅林固件（华硕系列）
-
-* `AC68U`、`AC66U_B1`、`AC1900`、`AC1900P` 使用同一个固件。
-
-| 品牌 | 型号                                |                          固件                           |                           科学上网                           |
-| :--: | :---------------------------------- | :-----------------------------------------------------: | :----------------------------------------------------------: |
-| 华硕 | AC68U / AC66U-B1 / AC1900 / AC1900P | [梅林固件](https://koolshare.cn/thread-164857-1-1.html) | [Shadowsocks](https://github.com/hq450/fancyss_history_package/tree/master/fancyss_arm) |
-| 华硕 | AC87U                               | [梅林固件](https://koolshare.cn/thread-164857-1-1.html) | [Shadowsocks](https://github.com/hq450/fancyss_history_package/tree/master/fancyss_arm) |
-| 华硕 | AC88U                               | [梅林固件](https://koolshare.cn/thread-164857-1-1.html) | [Shadowsocks](https://github.com/hq450/fancyss_history_package/tree/master/fancyss_arm) |
-| 华硕 | AC3100                              | [梅林固件](https://koolshare.cn/thread-164857-1-1.html) | [Shadowsocks](https://github.com/hq450/fancyss_history_package/tree/master/fancyss_arm) |
-| 华硕 | AC3200                              | [梅林固件](https://koolshare.cn/thread-164857-1-1.html) | [Shadowsocks](https://github.com/hq450/fancyss_history_package/tree/master/fancyss_arm) |
-| 华硕 | AC5300                              | [梅林固件](https://koolshare.cn/thread-164857-1-1.html) | [Shadowsocks](https://github.com/hq450/fancyss_history_package/tree/master/fancyss_arm) |
-
----
-
-### fancyss_arm 梅林固件（网件系列）
-
-* `R6900`、`R7000` 使用同一个固件。
-
-| 品牌 | 型号          |                          固件                           |                           科学上网                           |
-| :--: | :------------ | :-----------------------------------------------------: | :----------------------------------------------------------: |
-| 网件 | R6300V2       | [梅林固件](https://koolshare.cn/thread-139324-1-1.html) | [Shadowsocks](https://github.com/hq450/fancyss_history_package/tree/master/fancyss_arm) |
-| 网件 | R6400         | [梅林固件](https://koolshare.cn/thread-139324-1-1.html) | [Shadowsocks](https://github.com/hq450/fancyss_history_package/tree/master/fancyss_arm) |
-| 网件 | R6900 / R7000 | [梅林固件](https://koolshare.cn/thread-139324-1-1.html) | [Shadowsocks](https://github.com/hq450/fancyss_history_package/tree/master/fancyss_arm) |
-| 网件 | R8000         | [梅林固件](https://koolshare.cn/thread-139324-1-1.html) | [Shadowsocks](https://github.com/hq450/fancyss_history_package/tree/master/fancyss_arm) |
-| 网件 | R8500         | [梅林固件](https://koolshare.cn/thread-139324-1-1.html) | [Shadowsocks](https://github.com/hq450/fancyss_history_package/tree/master/fancyss_arm) |
-
-
-
----
-
-### fancyss_384 梅林固件（领势系列）
-
-* `EA6700`、`EA6500v2` 使用同一个固件。
-
-| 品牌 | 型号              |                          固件                           |                           科学上网                           |
-| :--: | :---------------- | :-----------------------------------------------------: | :----------------------------------------------------------: |
-| 领势 | R6300V2           | [梅林固件](https://koolshare.cn/thread-139325-1-1.html) | [Shadowsocks](https://github.com/hq450/fancyss_history_package/tree/master/fancyss_arm) |
-| 领势 | EA6200            | [梅林固件](https://koolshare.cn/thread-139325-1-1.html) | [Shadowsocks](https://github.com/hq450/fancyss_history_package/tree/master/fancyss_arm) |
-| 领势 | EA6700 / EA6500v2 | [梅林固件](https://koolshare.cn/thread-139325-1-1.html) | [Shadowsocks](https://github.com/hq450/fancyss_history_package/tree/master/fancyss_arm) |
-| 领势 | EA6900            | [梅林固件](https://koolshare.cn/thread-139325-1-1.html) | [Shadowsocks](https://github.com/hq450/fancyss_history_package/tree/master/fancyss_arm) |
+|   平台   |                         fancyss_hnd                          |                        fancyss_arm384                        |                         fancyss_arm                          |                        fancyss_mipsel                        |                         fancyss_x64                          |
+| :------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+|   固件   |                          梅林/官改                           |                           梅林384                            |                           梅林380                            |                             梅林                             |                             LEDE                             |
+| 维护状态 |                            维护中                            |                            维护中                            |                         **停止维护**                         |                         **停止维护**                         |                         **备份留存**                         |
+|    1     |   [AC86U 梅林](http://koolshare.cn/thread-127878-1-1.html)   |   [AC66U_B1](https://koolshare.cn/thread-164857-1-1.html)    |     [AC56U](https://koolshare.cn/thread-139322-1-1.html)     |                           RT-N66U                            |         [软路由 X64](https://firmware.koolshare.cn/)         |
+|    2     |   [AC86U 官改](http://koolshare.cn/thread-139965-1-1.html)   |    [AC1900](https://koolshare.cn/thread-164857-1-1.html)     |     [AC68U](https://koolshare.cn/thread-139322-1-1.html)     |                     AC66U（非AC66U-B1）                      |                                                              |
+|    3     |  [AC5300 官改](http://koolshare.cn/thread-130902-1-1.html)   |    [AC1900P](https://koolshare.cn/thread-164857-1-1.html)    |   [AC66U_B1](https://koolshare.cn/thread-139322-1-1.html)    |                                                              |                                                              |
+|    4     |   [AX88U 梅林](http://koolshare.cn/thread-158199-1-1.html)   |     [AC68U](https://koolshare.cn/thread-164857-1-1.html)     |     [AC87U](https://koolshare.cn/thread-139322-1-1.html)     |                                                              |                                                              |
+|    5     |  [AX11000 官改](http://koolshare.cn/thread-159465-1-1.html)  |     [AC88U](https://koolshare.cn/thread-164857-1-1.html)     |     [AC88U](https://koolshare.cn/thread-139322-1-1.html)     |                                                              |                                                              |
+|    6     |  [RAX80 梅林](https://koolshare.cn/thread-177255-1-1.html)   |    [AC3100](https://koolshare.cn/thread-164857-1-1.html)     |    [AC3100](https://koolshare.cn/thread-139322-1-1.html)     |                                                              |                                                              |
+|    7     |  [AX3000 官改](https://koolshare.cn/thread-179968-1-1.html)  |    [AC5300](https://koolshare.cn/thread-164857-1-1.html)     |    [AC3200](https://koolshare.cn/thread-139322-1-1.html)     |                                                              |                                                              |
+|    8     |                                                              |     [AC87U](https://koolshare.cn/thread-164857-1-1.html)     |    [AC5300](https://koolshare.cn/thread-139322-1-1.html)     |                                                              |                                                              |
+|    9     |                                                              |    [AC3200](https://koolshare.cn/thread-164857-1-1.html)     |   [华为WS880](https://koolshare.cn/thread-139322-1-1.html)   |                                                              |                                                              |
+|    10    |                                                              |                                                              | [网件 R6300V2](https://koolshare.cn/thread-139324-1-1.html)  |                                                              |                                                              |
+|    11    |                                                              |                                                              |  [网件 R6400](https://koolshare.cn/thread-139324-1-1.html)   |                                                              |                                                              |
+|    12    |                                                              |                                                              |  [网件 R6900](https://koolshare.cn/thread-139324-1-1.html)   |                                                              |                                                              |
+|    13    |                                                              |                                                              |  [网件 R7000](https://koolshare.cn/thread-139324-1-1.html)   |                                                              |                                                              |
+|    14    |                                                              |                                                              |  [网件 R8000](https://koolshare.cn/thread-139324-1-1.html)   |                                                              |                                                              |
+|    15    |                                                              |                                                              |  [网件 R8500](https://koolshare.cn/thread-139324-1-1.html)   |                                                              |                                                              |
+|    16    |                                                              |                                                              |  [领势 EA6400](https://koolshare.cn/thread-139325-1-1.html)  |                                                              |                                                              |
+|    17    |                                                              |                                                              |  [领势 EA6200](https://koolshare.cn/thread-139325-1-1.html)  |                                                              |                                                              |
+|    18    |                                                              |                                                              |  [领势 EA6700](https://koolshare.cn/thread-139325-1-1.html)  |                                                              |                                                              |
+|    19    |                                                              |                                                              | [领势 EA6500v2](https://koolshare.cn/thread-139325-1-1.html) |                                                              |                                                              |
+|    20    |                                                              |                                                              |  [领势 EA6900](https://koolshare.cn/thread-139325-1-1.html)  |                                                              |                                                              |
+| 插件下载 | [科学上网](https://github.com/hq450/fancyss_history_package/tree/master/fancyss_hnd) | [科学上网](https://github.com/hq450/fancyss_history_package/tree/master/fancyss_arm384) | [科学上网](https://github.com/hq450/fancyss_history_package/tree/master/fancyss_arm) | [科学上网](https://github.com/hq450/fancyss_history_package/tree/master/fancyss_mipsel) | [koolss](https://github.com/hq450/fancyss_history_package/tree/master/fancyss_X64) |
 
