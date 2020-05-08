@@ -30,11 +30,11 @@
 
 ### 其他平台客户端
 
-| 平台 |                             Mac                              |                           Windows                            |
-| :--: | :----------------------------------------------------------: | :----------------------------------------------------------: |
-|      | [ShadowrocketX-NG](https://github.com/shadowsocks/ShadowsocksX-NG/releases) | [ssr-win.7z](https://github.com/masonincn/luyouqi-kxsw-gujian/blob/master/Mac:win/ssr-win.7z) |
-|      | [ShadowrocketX-NG-R8](https://github.com/masonincn/luyouqi-kxsw-gujian/blob/master/Mac:win/ShadowsocksX-NG-R8.dmg) |                                                              |
-|      |                [Surge](https://nssurge.com/)                 |                                                              |
-|      |   [ClashX](https://github.com/yichengchen/clashX/releases)   |                                                              |
-|      |    [ClashXR](https://github.com/WhoJave/clashX/releases)     |                                                              |
+|                             Mac                              |                           Windows                            |
+| :----------------------------------------------------------: | :----------------------------------------------------------: |
+| [ShadowrocketX-NG](https://github.com/shadowsocks/ShadowsocksX-NG/releases) | [ssr-win.7z](https://github.com/masonincn/luyouqi-kxsw-gujian/blob/master/Mac:win/ssr-win.7z) |
+| [ShadowrocketX-NG-R8](https://github.com/masonincn/luyouqi-kxsw-gujian/blob/master/Mac:win/ShadowsocksX-NG-R8.dmg) |                                                              |
+|                [Surge](https://nssurge.com/)                 |                                                              |
+|   [ClashX](https://github.com/yichengchen/clashX/releases)   |                                                              |
+|    [ClashXR](https://github.com/WhoJave/clashX/releases)     |                                                              |
 
