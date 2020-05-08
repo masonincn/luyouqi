@@ -1,12 +1,14 @@
 # 路由器固件和插件
 
+### fancyss_hnd
+
 | 品牌 | 型号    |                          固件                           |                           科学上网                           |
 | :--: | :------ | :-----------------------------------------------------: | :----------------------------------------------------------: |
 | 华硕 | AC86U   | [官改固件](https://koolshare.cn/thread-139965-1-1.html) | [Shadowsocks](https://github.com/hq450/fancyss_history_package/tree/master/fancyss_hnd) |
 | 华硕 | AC86U   | [梅林固件](https://koolshare.cn/thread-127878-1-1.html) | [Shadowsocks](https://github.com/hq450/fancyss_history_package/tree/master/fancyss_hnd) |
 | 华硕 | AX88U   | [梅林固件](https://koolshare.cn/thread-158199-1-1.html) | [Shadowsocks](https://github.com/hq450/fancyss_history_package/tree/master/fancyss_hnd) |
 | 华硕 | AC5300  | [官改固件](https://koolshare.cn/thread-130902-1-1.html) | [Shadowsocks](https://github.com/hq450/fancyss_history_package/tree/master/fancyss_hnd) |
-| 华硕 | AX3000  | [官改固件](https://koolshare.cn/thread-179968-1-1.html) |                                                              |
+| 华硕 | AX3000  | [官改固件](https://koolshare.cn/thread-179968-1-1.html) | [Shadowsocks](https://github.com/hq450/fancyss_history_package/tree/master/fancyss_hnd) |
 | 华硕 | AX11000 | [官改固件](https://koolshare.cn/thread-159465-1-1.html) | [Shadowsocks](https://github.com/hq450/fancyss_history_package/tree/master/fancyss_hnd) |
 | 网件 | RAX80   | [梅林固件](https://koolshare.cn/thread-177255-1-1.html) | [Shadowsocks](https://github.com/hq450/fancyss_history_package/tree/master/fancyss_hnd) |
 
