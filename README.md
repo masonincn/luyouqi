@@ -1,6 +1,6 @@
 # 路由器「固件」和「科学上网」插件下载
 
-## 
+### 路由器
 
 |    平台     |                         fancyss_hnd                          |                        fancyss_arm384                        |                         fancyss_arm                          |                        fancyss_mipsel                        |                         fancyss_x64                          |
 | :---------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
@@ -28,6 +28,13 @@
 | 固件下载-20 |                                                              |                                                              |  [领势 EA6900](https://koolshare.cn/thread-139325-1-1.html)  |                                                              |                                                              |
 |  插件下载   | [科学上网](https://github.com/hq450/fancyss_history_package/tree/master/fancyss_hnd) | [科学上网](https://github.com/hq450/fancyss_history_package/tree/master/fancyss_arm384) | [科学上网](https://github.com/hq450/fancyss_history_package/tree/master/fancyss_arm) | [科学上网](https://github.com/hq450/fancyss_history_package/tree/master/fancyss_mipsel) | [koolss](https://github.com/hq450/fancyss_history_package/tree/master/fancyss_X64) |
 
-Mac 客户端：
+### 其他平台客户端
 
-Windows 客户端：
+| 平台 |                             Mac                              |                           Windows                            |
+| :--: | :----------------------------------------------------------: | :----------------------------------------------------------: |
+|      | [ShadowrocketX-NG](https://github.com/shadowsocks/ShadowsocksX-NG/releases) |                                                              |
+|      | [ShadowrocketX-NG-R8](https://github.com/masonincn/luyouqi-kxsw-gujian/blob/master/Mac:win/ShadowsocksX-NG-R8.dmg) | [ssr-win.7z](https://github.com/masonincn/luyouqi-kxsw-gujian/blob/master/Mac:win/ssr-win.7z) |
+|      |                [Surge](https://nssurge.com/)                 |                                                              |
+|      |   [ClashX](https://github.com/yichengchen/clashX/releases)   |                                                              |
+|      |    [ClashXR](https://github.com/WhoJave/clashX/releases)     |                                                              |
+
