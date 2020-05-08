@@ -10,7 +10,7 @@
 | 华硕 | AX11000 | [官改固件](https://koolshare.cn/thread-159465-1-1.html) | [Shadowsocks](https://github.com/hq450/fancyss_history_package/tree/master/fancyss_hnd) |
 | 网件 | RAX80   | [梅林固件](https://koolshare.cn/thread-177255-1-1.html) | [Shadowsocks](https://github.com/hq450/fancyss_history_package/tree/master/fancyss_hnd) |
 
-
+---
 
 ### fancyss_384 梅林固件
 
@@ -26,7 +26,7 @@
 | 华硕 | AC5300           | [梅林固件](https://koolshare.cn/thread-139322-1-1.html) | [Shadowsocks](https://github.com/hq450/fancyss_history_package/tree/master/fancyss_arm384) |
 | 华为 | WS880            | [梅林固件](https://koolshare.cn/thread-139322-1-1.html) | [Shadowsocks](https://github.com/hq450/fancyss_history_package/tree/master/fancyss_arm) |
 
-
+---
 
 ### fancyss_arm 梅林固件（华硕系列）
 
@@ -41,7 +41,7 @@
 | 华硕 | AC3200                              | [梅林固件](https://koolshare.cn/thread-164857-1-1.html) | [Shadowsocks](https://github.com/hq450/fancyss_history_package/tree/master/fancyss_arm) |
 | 华硕 | AC5300                              | [梅林固件](https://koolshare.cn/thread-164857-1-1.html) | [Shadowsocks](https://github.com/hq450/fancyss_history_package/tree/master/fancyss_arm) |
 
-
+---
 
 ### fancyss_arm 梅林固件（网件系列）
 
@@ -57,7 +57,7 @@
 
 
 
-
+---
 
 ### fancyss_384 梅林固件（领势系列）
 
